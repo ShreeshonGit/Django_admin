@@ -26,8 +26,8 @@ Follow these steps to get the project running on your local machine (Windows, ma
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd django-auth-project
+git clone https://github.com/ShreeshonGit/Django_admin
+cd Django_admin
 ```
 
 ### 2. Set Up a Virtual Environment (Recommended)
