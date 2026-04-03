@@ -1,4 +1,4 @@
-# Modern Django Authentication System
+# Django Authentication System
 
 A clean, modern, and secure Django-based authentication system featuring Email-based Login, Signup, and a sleek User Dashboard. This project uses a custom User model and is designed with a responsive, attractive UI.
 
