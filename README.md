@@ -19,7 +19,10 @@ A clean, modern, and secure Django-based authentication system featuring Email-b
 - **Language**: Python 3.10+
 
 ---
+## Live Demo
+🚀 Click here : https://django-admin-xg8a.onrender.com
 
+---
 ## 💻 Installation & Setup
 
 Follow these steps to get the project running on your local machine (Windows, macOS, or Linux).
